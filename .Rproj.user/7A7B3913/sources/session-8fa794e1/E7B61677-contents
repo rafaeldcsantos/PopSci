@@ -1,4 +1,73 @@
 ---
-title: Projetando Hackatons Científicos
+title: "Estudo Orientado: Projetando Hackatons Científicos"
+lang: pt-br
+slide-format: revealjs
+bibliography: references.bib
 ---
+
+# Sobre o Estudo Orientado
+
+Hackatons são comumente conhecidos como eventos de curta duração nos quais indivíduos ou times competem entre si para tentar resolver um problema proposto pelos organizadores. Hackatons tem se popularizado como ferramentas de engajamento na solução de problemas diversos, e o caráter de desafio e competição tende a atrair igualmente participantes experientes e novatos.
+
+Neste estudo orientado os alunos deverão estudar as diferentes modalidades de hackatons, estudando exemplos conhecidos, analisando suas características, mas sob o ponto de vista de **organizadores** de um hackaton.
+
+Alguns dos temas que serão explorados, através de leituras de artigos técnico/científicos, são: 
+
+- Diferentes modelos e aplicações de hackatons. 
+- Hackatons sobre dados, algoritmos e codificação. 
+- Valor potencial de um hackaton. 
+- O ciclo de vida de um hackaton. 
+- Ferramentas online e offline para hackatons. 
+- Divulgação e engajamento. 
+- Acompanhamento pós-evento.
+
+As aulas serão exclusivamente online, mas síncronas: não será possível participar das aulas fora do tempo alocado e não serão todas gravadas. Para o [primeiro período de 2024](https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/calendario-academico) o horário proposto é sexta-feira, 8:00 às 10:00, com atividades extras. O estudo dirigido contará como dois créditos.
+
+Como projeto final da disciplina, alunos ou grupos deverão projetar um hackaton considerando todas as fases de sua execução. Projetos serão selecionados para implementação do hackaton em meses posteriores, com apoio da PGCAP e INPE.
+
+Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackaton proposto.
+
+É possível consultar participantes externos que possam ajudar na definição dos hackatons, mas a responsabilidade da entrega dos projetos é dos alunos que cursarem a disciplina.
+
+## Alguns temas e projetos de interesse
+
+Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackaton nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos.
+- Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho).
+- Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES).
+- Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). 
+- Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackatons. 
+
+# Cronograma para o primeiro período de 2024
+
+| Dia  | Conteúdo |
+|--------|--------|
+|08/03/24| [Aula 1]: Apresentação da disciplina, tarefas iniciais, discussão sobre os projetos | 
+|15/03/24| <span style="color:#ff00A0">Plantão para discutir projetos</span>|
+|22/03/24|  [Aula 2]: |
+|29/03/24| <span style="color:#ff00A0">Feriado</span>|
+|05/04/24|  |
+|12/04/24| <span style="color:#ff00A0"></span> |
+|19/04/24|  |
+|26/04/24| <span style="color:#ff00A0"></span> |
+|03/05/24|  |
+|10/05/24| <span style="color:#ff00A0"></span> |
+|17/05/24|  |
+|24/05/24|  |
+: {tbl-colwidths="[20,80]" .striped .hover}
+
+Veja também o [calendário acadêmico](https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/calendario-academico) de 2024.
+
+
+
+
+# Aula 1
+
+```{=html}
+<iframe class="slide-deck" src="Hackatons-Aula01/"></iframe>
+```
+[Clique aqui para abrir em nova janela](Hackatons-Aula01/){target="_blank"}
+
+# Aula 2
+
+# Aula 3
 

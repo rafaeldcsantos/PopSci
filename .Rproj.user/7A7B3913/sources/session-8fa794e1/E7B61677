@@ -3,7 +3,7 @@
     "path": "~/Library/CloudStorage/Dropbox/INPE/CAP-PopSci/Book/hackatons.qmd",
     "project_path": "hackatons.qmd",
     "type": "quarto_markdown",
-    "hash": "2464799897",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1708199888887.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "13:0",
-        "cursorPosition": "4,0",
-        "scrollLine": "0"
+        "rmdVisualModeLocation": "1109:407.20001220703125",
+        "cursorPosition": "43,47",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708200232,
+    "lastKnownWriteTime": 1708220143,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708200232981,
+    "last_content_update": 1708220143514,
     "read_only": false,
     "read_only_alternatives": []
 }
