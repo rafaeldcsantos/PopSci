@@ -1,4 +1,0 @@
-.reveal .slide-logo {
-  height: 50px !important;
-  max-height: unset !important;
-}

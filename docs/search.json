@@ -1,44 +1,30 @@
 [
   {
-    "objectID": "Hackatons-Aula01/index.html#getting-up",
-    "href": "Hackatons-Aula01/index.html#getting-up",
-    "title": "Aula 1 - Apresentação da disciplina",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
-  },
-  {
-    "objectID": "Hackatons-Aula01/index.html#breakfast",
-    "href": "Hackatons-Aula01/index.html#breakfast",
-    "title": "Aula 1 - Apresentação da disciplina",
-    "section": "Breakfast",
-    "text": "Breakfast\n\nEat eggs\nDrink coffee\n\n\n\n\nhttps://rafaeldcsantos.github.io/PopSci/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PopSci",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "hackatons.html",
-    "href": "hackatons.html",
-    "title": "Estudo Orientado: Projetando Hackatons Científicos",
-    "section": "",
-    "text": "Hackatons são comumente conhecidos como eventos de curta duração nos quais indivíduos ou times competem entre si para tentar resolver um problema proposto pelos organizadores. Hackatons tem se popularizado como ferramentas de engajamento na solução de problemas diversos, e o caráter de desafio e competição tende a atrair igualmente participantes experientes e novatos.\nNeste estudo orientado os alunos deverão estudar as diferentes modalidades de hackatons, estudando exemplos conhecidos, analisando suas características, mas sob o ponto de vista de organizadores de um hackaton.\nAlguns dos temas que serão explorados, através de leituras de artigos técnico/científicos, são:\n\nDiferentes modelos e aplicações de hackatons.\nHackatons sobre dados, algoritmos e codificação.\nValor potencial de um hackaton.\nO ciclo de vida de um hackaton.\nFerramentas online e offline para hackatons.\nDivulgação e engajamento.\nAcompanhamento pós-evento.\n\nAs aulas serão exclusivamente online, mas síncronas: não será possível participar das aulas fora do tempo alocado e não serão todas gravadas. Para o primeiro período de 2024 o horário proposto é sexta-feira, 8:00 às 10:00, com atividades extras. O estudo dirigido contará como dois créditos.\nComo projeto final da disciplina, alunos ou grupos deverão projetar um hackaton considerando todas as fases de sua execução. Projetos serão selecionados para implementação do hackaton em meses posteriores, com apoio da PGCAP e INPE.\nOs projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackaton proposto.\nÉ possível consultar participantes externos que possam ajudar na definição dos hackatons, mas a responsabilidade da entrega dos projetos é dos alunos que cursarem a disciplina.\n\n\nPara estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackaton nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackatons."
-  },
-  {
-    "objectID": "hackatons.html#alguns-temas-e-projetos-de-interesse",
-    "href": "hackatons.html#alguns-temas-e-projetos-de-interesse",
-    "title": "Estudo Orientado: Projetando Hackatons Científicos",
-    "section": "",
-    "text": "Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackaton nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackatons."
-  },
-  {
     "objectID": "referencias.html",
     "href": "referencias.html",
     "title": "Mais Informações",
     "section": "",
-    "text": "Referências\n\nGama, Kiev, Breno Alencar, Filipe Calegario, André Neves, e Pedro Alessio. 2018. “A hackathon methodology for undergraduate course projects”. Em 2018 IEEE Frontiers in Education Conference (FIE), 1–9. IEEE.\n\n\n“Hackaton Planning Kit”. s.d. https://hackathon-planning-kit.org/.\n\n\nKomssi, Marko, Danielle Pichlis, Mikko Raatikainen, Klas Kindström, e Janne Järvinen. 2014. “What are hackathons for?” IEEE Software 32 (5): 60–67.\n\n\nMedina Angarita, Maria Angelica, e Alexander Nolte. 2020. “What do we know about hackathon outcomes and how to support them?–A systematic literature review”. Em Collaboration Technologies and Social Computing: 26th International Conference, CollabTech 2020, Tartu, Estonia, September 8–11, 2020, Proceedings 26, 50–64. Springer.\n\n\nNolte, Alexander, Irene-Angelica Chounta, e James D Herbsleb. 2020. “What happens to all these hackathon projects? Identifying factors to promote hackathon project continuation”. Proceedings of the ACM on Human-Computer Interaction 4 (CSCW2): 1–26.\n\n\nTrainer, Erik H, Arun Kalyanasundaram, Chalalai Chaihirunkarn, e James D Herbsleb. 2016. “How to hackathon: Socio-technical tradeoffs in brief, intensive collocation”. Em proceedings of the 19th ACM conference on computer-supported cooperative work & social computing, 1118–30."
+    "text": "Referências\n\nGama, Kiev, Breno Alencar, Filipe Calegario, André Neves, e Pedro Alessio. 2018. “A hackathon methodology for undergraduate course projects”. Em 2018 IEEE Frontiers in Education Conference (FIE), 1–9. IEEE.\n\n\n“Hackathon Planning Kit”. s.d. https://hackathon-planning-kit.org/.\n\n\nKomssi, Marko, Danielle Pichlis, Mikko Raatikainen, Klas Kindström, e Janne Järvinen. 2014. “What are hackathons for?” IEEE Software 32 (5): 60–67.\n\n\nMedina Angarita, Maria Angelica, e Alexander Nolte. 2020. “What do we know about hackathon outcomes and how to support them?–A systematic literature review”. Em Collaboration Technologies and Social Computing: 26th International Conference, CollabTech 2020, Tartu, Estonia, September 8–11, 2020, Proceedings 26, 50–64. Springer.\n\n\nNolte, Alexander, Irene-Angelica Chounta, e James D Herbsleb. 2020. “What happens to all these hackathon projects? Identifying factors to promote hackathon project continuation”. Proceedings of the ACM on Human-Computer Interaction 4 (CSCW2): 1–26.\n\n\nTrainer, Erik H, Arun Kalyanasundaram, Chalalai Chaihirunkarn, e James D Herbsleb. 2016. “How to hackathon: Socio-technical tradeoffs in brief, intensive collocation”. Em proceedings of the 19th ACM conference on computer-supported cooperative work & social computing, 1118–30."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Este será o repositório de arquivos e projetos de popularização da ciência organizados como parte do Programa de Pós-Graduação em Computação Aplicada."
+  },
+  {
+    "objectID": "hackatons.html",
+    "href": "hackatons.html",
+    "title": "Estudo Orientado: Projetando Hackathons Científicos",
+    "section": "",
+    "text": "Hackathons são comumente conhecidos como eventos de curta duração nos quais indivíduos ou times competem entre si para tentar resolver um problema proposto pelos organizadores. hackathons tem se popularizado como ferramentas de engajamento na solução de problemas diversos, e o caráter de desafio e competição tende a atrair igualmente participantes experientes e novatos.\nNeste estudo orientado os alunos deverão estudar as diferentes modalidades de hackathons, estudando exemplos conhecidos, analisando suas características, mas sob o ponto de vista de organizadores de um hackathon.\nAlguns dos temas que serão explorados, através de leituras de artigos técnico/científicos, são:\n\nDiferentes modelos e aplicações de hackathons.\nhackathons sobre dados, algoritmos e codificação.\nValor potencial de um hackathon.\nO ciclo de vida de um hackathon.\nFerramentas online e offline para hackathons.\nDivulgação e engajamento.\nAcompanhamento pós-evento.\n\nAs aulas serão exclusivamente online, mas síncronas: não será possível participar das aulas fora do tempo alocado e não serão todas gravadas. Para o primeiro período de 2024 o horário proposto é sexta-feira, 8:00 às 10:00, com atividades extras. O estudo dirigido contará como dois créditos.\nComo projeto final da disciplina, alunos ou grupos deverão projetar um hackathon considerando todas as fases de sua execução. Projetos serão selecionados para implementação do hackathon em meses posteriores, com apoio da PGCAP e INPE.\nOs projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackathon proposto.\nÉ possível consultar participantes externos que possam ajudar na definição dos hackathons, mas a responsabilidade da entrega dos projetos é dos alunos que cursarem a disciplina.\n\n\nPara estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons."
+  },
+  {
+    "objectID": "hackatons.html#alguns-temas-e-projetos-de-interesse",
+    "href": "hackatons.html#alguns-temas-e-projetos-de-interesse",
+    "title": "Estudo Orientado: Projetando Hackathons Científicos",
+    "section": "",
+    "text": "Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons."
   }
 ]

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Book - Estudo Orientado: Projetando Hackatons Científicos</title>
+<title>PopSci - Estudo Orientado: Projetando Hackathons Científicos</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -55,7 +74,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
     "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar"
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
   }
 }</script>
 
@@ -71,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Book</span>
+    <span class="navbar-title">PopSci</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -82,11 +102,11 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">PopSci</span></a>
+ <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./hackatons.html" rel="" target="" aria-current="page">
- <span class="menu-text">Estudo Orientado: Projetando Hackatons Científicos</span></a>
+ <span class="menu-text">Estudo Orientado: Projetando Hackathons Científicos</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./referencias.html" rel="" target="">
@@ -113,9 +133,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#alguns-temas-e-projetos-de-interesse" id="toc-alguns-temas-e-projetos-de-interesse" class="nav-link" data-scroll-target="#alguns-temas-e-projetos-de-interesse">Alguns temas e projetos de interesse</a></li>
   </ul></li>
   <li><a href="#cronograma-para-o-primeiro-período-de-2024" id="toc-cronograma-para-o-primeiro-período-de-2024" class="nav-link" data-scroll-target="#cronograma-para-o-primeiro-período-de-2024">Cronograma para o primeiro período de 2024</a></li>
-  <li><a href="#aula-1" id="toc-aula-1" class="nav-link" data-scroll-target="#aula-1">Aula 1</a></li>
-  <li><a href="#aula-2" id="toc-aula-2" class="nav-link" data-scroll-target="#aula-2">Aula 2</a></li>
-  <li><a href="#aula-3" id="toc-aula-3" class="nav-link" data-scroll-target="#aula-3">Aula 3</a></li>
+  <li><a href="#tarefa-pré-encontros" id="toc-tarefa-pré-encontros" class="nav-link" data-scroll-target="#tarefa-pré-encontros">Tarefa Pré-Encontros</a></li>
+  <li><a href="#encontro-1" id="toc-encontro-1" class="nav-link" data-scroll-target="#encontro-1">Encontro #1</a></li>
+  <li><a href="#encontro-2" id="toc-encontro-2" class="nav-link" data-scroll-target="#encontro-2">Encontro #2</a></li>
   </ul>
 </nav>
     </div>
@@ -124,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Estudo Orientado: Projetando Hackatons Científicos</h1>
+<h1 class="title">Estudo Orientado: Projetando Hackathons Científicos</h1>
 </div>
 
 
@@ -141,25 +161,25 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="sobre-o-estudo-orientado" class="level1">
 <h1>Sobre o Estudo Orientado</h1>
-<p>Hackatons são comumente conhecidos como eventos de curta duração nos quais indivíduos ou times competem entre si para tentar resolver um problema proposto pelos organizadores. Hackatons tem se popularizado como ferramentas de engajamento na solução de problemas diversos, e o caráter de desafio e competição tende a atrair igualmente participantes experientes e novatos.</p>
-<p>Neste estudo orientado os alunos deverão estudar as diferentes modalidades de hackatons, estudando exemplos conhecidos, analisando suas características, mas sob o ponto de vista de <strong>organizadores</strong> de um hackaton.</p>
+<p>Hackathons são comumente conhecidos como eventos de curta duração nos quais indivíduos ou times competem entre si para tentar resolver um problema proposto pelos organizadores. hackathons tem se popularizado como ferramentas de engajamento na solução de problemas diversos, e o caráter de desafio e competição tende a atrair igualmente participantes experientes e novatos.</p>
+<p>Neste estudo orientado os alunos deverão estudar as diferentes modalidades de hackathons, estudando exemplos conhecidos, analisando suas características, mas sob o ponto de vista de <strong>organizadores</strong> de um hackathon.</p>
 <p>Alguns dos temas que serão explorados, através de leituras de artigos técnico/científicos, são:</p>
 <ul>
-<li>Diferentes modelos e aplicações de hackatons.</li>
-<li>Hackatons sobre dados, algoritmos e codificação.</li>
-<li>Valor potencial de um hackaton.</li>
-<li>O ciclo de vida de um hackaton.</li>
-<li>Ferramentas online e offline para hackatons.</li>
+<li>Diferentes modelos e aplicações de hackathons.</li>
+<li>hackathons sobre dados, algoritmos e codificação.</li>
+<li>Valor potencial de um hackathon.</li>
+<li>O ciclo de vida de um hackathon.</li>
+<li>Ferramentas online e offline para hackathons.</li>
 <li>Divulgação e engajamento.</li>
 <li>Acompanhamento pós-evento.</li>
 </ul>
 <p>As aulas serão exclusivamente online, mas síncronas: não será possível participar das aulas fora do tempo alocado e não serão todas gravadas. Para o <a href="https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/calendario-academico">primeiro período de 2024</a> o horário proposto é sexta-feira, 8:00 às 10:00, com atividades extras. O estudo dirigido contará como dois créditos.</p>
-<p>Como projeto final da disciplina, alunos ou grupos deverão projetar um hackaton considerando todas as fases de sua execução. Projetos serão selecionados para implementação do hackaton em meses posteriores, com apoio da PGCAP e INPE.</p>
-<p>Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackaton proposto.</p>
-<p>É possível consultar participantes externos que possam ajudar na definição dos hackatons, mas a responsabilidade da entrega dos projetos é dos alunos que cursarem a disciplina.</p>
+<p>Como projeto final da disciplina, alunos ou grupos deverão projetar um hackathon considerando todas as fases de sua execução. Projetos serão selecionados para implementação do hackathon em meses posteriores, com apoio da PGCAP e INPE.</p>
+<p>Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackathon proposto.</p>
+<p>É possível consultar participantes externos que possam ajudar na definição dos hackathons, mas a responsabilidade da entrega dos projetos é dos alunos que cursarem a disciplina.</p>
 <section id="alguns-temas-e-projetos-de-interesse" class="level2">
 <h2 class="anchored" data-anchor-id="alguns-temas-e-projetos-de-interesse">Alguns temas e projetos de interesse</h2>
-<p>Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackaton nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackatons.</p>
+<p>Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons.</p>
 </section>
 </section>
 <section id="cronograma-para-o-primeiro-período-de-2024" class="level1">
@@ -179,15 +199,15 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>08/03/24</td>
-<td><a href="#aula-1">Aula 1</a>: Apresentação da disciplina, tarefas iniciais, discussão sobre os projetos</td>
+<td><a href="#tarefa-pré-encontros">Tarefa Pré-Encontros</a></td>
 </tr>
 <tr class="even">
 <td>15/03/24</td>
-<td><span style="color:#ff00A0">Plantão para discutir projetos</span></td>
+<td>Tempo para desenvolvimento da primeira tarefa</td>
 </tr>
 <tr class="odd">
 <td>22/03/24</td>
-<td><a href="#aula-2">Aula 2</a>:</td>
+<td><a href="#encontro-1">Encontro #1</a>: Apresentação formal da disciplina e objetivos, definição dos projetos</td>
 </tr>
 <tr class="even">
 <td>29/03/24</td>
@@ -195,11 +215,11 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td>05/04/24</td>
-<td></td>
+<td><a href="#encontro-2">Encontro #2</a>:</td>
 </tr>
 <tr class="even">
 <td>12/04/24</td>
-<td><span style="color:#ff00A0"></span></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>19/04/24</td>
@@ -207,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>26/04/24</td>
-<td><span style="color:#ff00A0"></span></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>03/05/24</td>
@@ -215,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>10/05/24</td>
-<td><span style="color:#ff00A0"></span></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>17/05/24</td>
@@ -229,21 +249,42 @@ ul.task-list li input[type="checkbox"] {
 </table>
 <p>Veja também o <a href="https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/calendario-academico">calendário acadêmico</a> de 2024.</p>
 </section>
-<section id="aula-1" class="level1">
-<h1>Aula 1</h1>
-<iframe class="slide-deck" src="Hackatons-Aula01/"></iframe>
-<p><a href="Hackatons-Aula01/" target="_blank">Clique aqui para abrir em nova janela</a></p>
+<section id="tarefa-pré-encontros" class="level1">
+<h1>Tarefa Pré-Encontros</h1>
+<p>Nesta disciplina vamos estudar <strong>hackathons</strong>, em particular como planejar e implementar um hackathon de sucesso. Para isto é importante entender alguns aspectos e pensar em projetos para desenvolver durante a disciplina.</p>
+<p>Antes de termos nosso primeiro encontro presencial sugiro que considerem uma das tarefas preliminares inicias a seguir:</p>
+<ol type="1">
+<li>Visite o site <a href="https://hackathon-planning-kit.org/">Hackathon Planning Kit</a>. O que eles oferecem? Qual é o custo? Quais são os requisitos para usar as ideias/material/abordagem/etc?</li>
+<li>Existem muitas plataformas para ciência de dados online que podem ser usadas para hackathons baseados em dados. Quais são as vantagens e desvantagens delas? Considerando o <a href="https://www.kaggle.com/">Kaggle</a> como sendo um padrão, quais são os diferenciais das alternativas? Considere custos, flexibilidade, limitações em uso de CPU/Dados, privacidade dos dados, etc. Use o <a href="Resources/RelatórioPCI.pdf">Relatório do Ebenezer Agyei-Yeboah</a> como base ou inspiração.</li>
+<li>Veja a revisão sistemática em <span class="citation" data-cites="medina2020we">(<a href="#ref-medina2020we" role="doc-biblioref">Medina Angarita e Nolte 2020</a>)</span> (<a href="Resources/Medina2020.pdf">link</a>). Quais são as principais conclusões? Podemos expandir ou especializar esta revisão sistemática? Que outras <em>research questions</em> podem ser interessantes?</li>
+<li>Leia o artigo <span class="citation" data-cites="nolte2020happens">(<a href="#ref-nolte2020happens" role="doc-biblioref">Nolte, Chounta, e Herbsleb 2020</a>)</span> (<a href="Resources/Nolte2020.pdf">link</a>). Como os autores identificam projetos com continuidade?</li>
+</ol>
+<p>Escolham uma (ou mais) destas referências para estudar e preparem um relatório <em>simples</em> (sugestão: apresentação em 4-5 slides) para a nossa primeira reunião. O trabalho pode ser feito em duplas se assim quiserem.</p>
+<!--
+ Veja o video [Mini-curso: Bibliometria na prática com R e Bibliometrix](https://youtu.be/2XKsq_y9z_M)\] por Clayton Martins Pereira, que ensina como fazer uma análise bibliométrica a partir de palavras-chaves. 
+ -->
 </section>
-<section id="aula-2" class="level1">
-<h1>Aula 2</h1>
+<section id="encontro-1" class="level1">
+<h1>Encontro #1</h1>
+<p>(ainda em preparo!)</p>
+<iframe class="slide-deck" src="hackathons-Aula01/"></iframe>
+<p><a href="hackathons-Aula01/" target="_blank">Clique aqui para abrir em nova janela</a></p>
 </section>
-<section id="aula-3" class="level1">
-<h1>Aula 3</h1>
+<section id="encontro-2" class="level1">
+
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Encontro #2</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-medina2020we" class="csl-entry" role="listitem">
+Medina Angarita, Maria Angelica, e Alexander Nolte. 2020. <span>“What do we know about hackathon outcomes and how to support them?–A systematic literature review”</span>. Em <em>Collaboration Technologies and Social Computing: 26th International Conference, CollabTech 2020, Tartu, Estonia, September 8–11, 2020, Proceedings 26</em>, 50–64. Springer.
+</div>
+<div id="ref-nolte2020happens" class="csl-entry" role="listitem">
+Nolte, Alexander, Irene-Angelica Chounta, e James D Herbsleb. 2020. <span>“What happens to all these hackathon projects? Identifying factors to promote hackathon project continuation”</span>. <em>Proceedings of the ACM on Human-Computer Interaction</em> 4 (CSCW2): 1–26.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
