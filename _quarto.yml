@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - index.qmd
-      - hackatons.qmd
+      - hackathons.qmd
       - referencias.qmd 
 
 format:
