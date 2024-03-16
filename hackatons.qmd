@@ -82,8 +82,10 @@ Escolham uma (ou mais) destas referências para estudar e preparem um relatório
 (ainda em preparo!)
 
 ```{=html}
-<iframe class="slide-deck" src="hackathons-Aula01/"></iframe>
+<iframe class="slide-deck" src="Hackathons-Aula01/"></iframe>
 ```
-[Clique aqui para abrir em nova janela](hackathons-Aula01/){target="_blank"}
+[Clique aqui para abrir em nova janela](Hackathons-Aula01/){target="_blank"}
 
 # Encontro #2
+
+# Bibliografia
