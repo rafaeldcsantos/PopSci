@@ -31,7 +31,12 @@ Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemen
 
 ## Alguns temas e projetos de interesse
 
-Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. - Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). - Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). - Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). - Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons.
+Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. 
+
+- Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). 
+- Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). 
+- Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). 
+- Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons.
 
 # Cronograma para o primeiro período de 2024
 
