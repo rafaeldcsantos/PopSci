@@ -1,0 +1,22 @@
+---
+title: "Ideias"
+---
+
+Este é um repositório **bastante incompleto** de ideias e referências sobre popularização da ciência, relacionáveis a atividades do Programa de Pós-Graduação em Computação Aplicada.
+
+# Leis, Portarias e Semelhantes
+
+A [resolução Nº 7, de 18 de dezembro de  2018](https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/55877808) estabelece as diretrizes que regulamentam as atividades acadêmicas de extensão dos cursos de graduação, indicando que também podem ser direcionadas aos cursos superiores de pós-graduação, conforme o Projeto Político Pedagógico (PPP) da instituição de educação superior.
+
+O [decreto Nº 11.754, de 25 de outubro de 2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11754.htm)  institui o Programa Nacional de Popularização da Ciência - Pop Ciência e o Comitê de Popularização da Ciência e Tecnologia - Comitê Pop. 
+
+# Exemplos de participação popular em ciência
+
+O vídeo [A cartografia como instrumentalização do Discurso](https://youtu.be/edZUloMl3L4) apresenta o projeto Projeto Mapear – Ser, que envolve a comunidade em ações de cidadania usando dados geoespaciais.
+
+O projeto [Pauliceia 2.0](https://pauliceia.unifesp.br/portal/home) é uma plataforma que tem o objetivo de fazer o mapeamento colaborativo da história de São Paulo no período de 1870 a 1940.
+
+O projeto [Zooniverse](https://www.zooniverse.org/) é um portal de projetos de ciência cidadã. Leia também sobre a descoberta do [_Hanny's Voorweep_](https://en.wikipedia.org/wiki/Hanny%27s_Voorwerp) usando ciência cidadã.
+
+
+

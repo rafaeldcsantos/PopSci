@@ -8,6 +8,7 @@ website:
     left:
       - index.qmd
       - hackathons.qmd
+      - ideias.qmd
       - referencias.qmd 
 
 format:
