@@ -14,12 +14,33 @@ format:
     footer: <https://rafaeldcsantos.github.io/PopSci/>
 ---
 
-## Page 1
+## Motivação
 
-- Item 1
-- Item 2
+-   Formação dos alunos;
+-   Curricularização da Extensão;
+-   Pop Ciência;
+-   É divertido.
 
-## Page 2
+## Formação dos alunos
 
-- Item 2.1
-- Item 2.2
+## Curricularização da Extensão
+
+## Pop Ciência (DECRETO Nº 11.754)
+
+![](../Resources/11754.png)
+
+## Pop Ciência (DECRETO Nº 11.754)
+
+Art. 4º  O Programa Pop Ciência será desenvolvido por meio de:
+
+I - Eventos e Processos Permanentes de Popularização da Ciência - ação destinada a chamadas de mostras e feiras científicas, entre outras iniciativas que:
+
+a) estimulem a apropriação e o uso da ciência e tecnologia pelas diversas camadas da população; e
+
+b) promovam a alfabetização e o letramento científicos e a percepção do papel da ciência como instrumento de desenvolvimento econômico e social;
+
+## Pop Ciência (DECRETO Nº 11.754)
+
+III - Concursos, Hackatons e Olimpíadas Científicas - ação destinada à realização de Olimpíadas Científicas e outras formas de concursos e desafios científicos e tecnológicos, em âmbito regional, nacional e internacional, em todas as áreas do conhecimento, que visem a contribuir para o desenvolvimento científico, tecnológico e de inovação no País;
+
+## É divertido

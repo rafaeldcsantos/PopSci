@@ -31,17 +31,17 @@ Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemen
 
 ## Alguns temas e projetos de interesse
 
-Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos. 
+Para estes temas já temos a coleção de dados definida, e/ou alguma experiência, e/ou algum interesse em promover um hackathon nestes temas, mas outros que atendam aos requisitos da disciplina poderão ser sugeridos.
 
-- Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho). 
-- Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES). 
-- Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável). 
-- Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons.
+-   Classificando polígonos em imagens de queimadas (baseado na dissertação de mestrado de Marcelly Homem Coelho).
+-   Procurando relações em bases de dados de produção científica (baseado no portal de dados abertos da CAPES).
+-   Previsão de dry spells em bacias hidrográficas com machine learning (verificar com pesquisador responsável).
+-   Implementação de tarefas de sensoriamento remoto/classificação de imagens/aprendizado de máquina de forma reprodutível por hackathons.
 
 # Cronograma para o primeiro período de 2024
 
 | Dia      | Conteúdo                                                                             |
-|---------------|---------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | 08/03/24 | [Tarefa Pré-Encontros]                                                               |
 | 15/03/24 | Tempo para desenvolvimento da primeira tarefa                                        |
 | 22/03/24 | [Encontro #1]: Apresentação formal da disciplina e objetivos, definição dos projetos |
@@ -65,18 +65,18 @@ Nesta disciplina vamos estudar **hackathons**, em particular como planejar e imp
 
 Antes de termos nosso primeiro encontro presencial sugiro que considerem uma das tarefas preliminares inicias a seguir:
 
-1. Visite o site [Hackathon Planning Kit](https://hackathon-planning-kit.org/). O que eles oferecem? Qual é o custo? Quais são os requisitos para usar as ideias/material/abordagem/etc? 
-2. Existem muitas plataformas para ciência de dados online que podem ser usadas para hackathons baseados em dados. Quais são as vantagens e desvantagens delas? Considerando o [Kaggle](https://www.kaggle.com/) como sendo um padrão, quais são os diferenciais das alternativas? Considere custos, flexibilidade, limitações em uso de CPU/Dados, privacidade dos dados, etc.
-Use o [Relatório do Ebenezer Agyei-Yeboah](Resources/RelatórioPCI.pdf) como base ou inspiração.
+1.  Visite o site [Hackathon Planning Kit](https://hackathon-planning-kit.org/). O que eles oferecem? Qual é o custo? Quais são os requisitos para usar as ideias/material/abordagem/etc?
+2.  Existem muitas plataformas para ciência de dados online que podem ser usadas para hackathons baseados em dados. Quais são as vantagens e desvantagens delas? Considerando o [Kaggle](https://www.kaggle.com/) como sendo um padrão, quais são os diferenciais das alternativas? Considere custos, flexibilidade, limitações em uso de CPU/Dados, privacidade dos dados, etc. Use o [Relatório do Ebenezer Agyei-Yeboah](Resources/RelatórioPCI.pdf) como base ou inspiração.
 3.  Veja a revisão sistemática em [@medina2020we] ([link](Resources/Medina2020.pdf)). Quais são as principais conclusões? Podemos expandir ou especializar esta revisão sistemática? Que outras *research questions* podem ser interessantes?
-4. Leia o artigo [@nolte2020happens] ([link](Resources/Nolte2020.pdf)). Como os autores identificam projetos com continuidade? 
+4.  Leia o artigo [@nolte2020happens] ([link](Resources/Nolte2020.pdf)). Como os autores identificam projetos com continuidade?
 
 Escolham uma (ou mais) destas referências para estudar e preparem um relatório *simples* (sugestão: apresentação em 4-5 slides) para a nossa primeira reunião. O trabalho pode ser feito em duplas se assim quiserem.
 
+```{=html}
 <!--
  Veja o video [Mini-curso: Bibliometria na prática com R e Bibliometrix](https://youtu.be/2XKsq_y9z_M)\] por Clayton Martins Pereira, que ensina como fazer uma análise bibliométrica a partir de palavras-chaves. 
  -->
-
+```
 # Encontro #1
 
 (ainda em preparo!)
