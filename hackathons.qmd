@@ -41,7 +41,7 @@ Para estes temas já temos a coleção de dados definida, e/ou alguma experiênc
 # Cronograma para o primeiro período de 2024
 
 | Dia      | Conteúdo                                                                             |
-|-----------------|-------------------------------------------------------|
+|----------|--------------------------------------------------------------------------------------|
 | 08/03/24 | [Tarefa Pré-Encontros]                                                               |
 | 15/03/24 | Tempo para desenvolvimento da primeira tarefa                                        |
 | 22/03/24 | [Encontro #1]: Apresentação formal da disciplina e objetivos, definição dos projetos |

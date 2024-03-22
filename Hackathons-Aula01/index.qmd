@@ -14,7 +14,7 @@ format:
     footer: <https://rafaeldcsantos.github.io/PopSci/>
 ---
 
-## Motivação
+# Motivação
 
 -   Formação dos alunos;
 -   Curricularização da Extensão;
@@ -23,24 +23,66 @@ format:
 
 ## Formação dos alunos
 
+-   Diversificação do currículo;
+-   Aumento da exposição;
+-   Oportunidade de montar e acompanhar um projeto de extensão.
+
 ## Curricularização da Extensão
 
-## Pop Ciência (DECRETO Nº 11.754)
+![](../Resources/currext.png)
+[(RESOLUÇÃO Nº 7, DE 18 DE DEZEMBRO DE 2018)](https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/55877808)
+
+## Curricularização da Extensão
+
+Art. 2º As Diretrizes para a Extensão na Educação Superior Brasileira regulamentam as atividades acadêmicas de extensão dos cursos de graduação, na forma de componentes curriculares para os cursos, considerando-os em seus aspectos que se vinculam à formação dos estudantes...
+
+Parágrafo único. As Diretrizes para a Extensão na Educação Superior Brasileira também <span style="color:blue">podem</span> ser direcionadas aos cursos superiores de pós-graduação, conforme o Projeto Político Pedagógico (PPP) da instituição de educação superior.
+
+## Curricularização da Extensão
+
+Art. 3º A Extensão na Educação Superior Brasileira ... promove a interação transformadora entre as instituições de ensino superior e os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa.
+
+Art. 4º As atividades de extensão <span style="color:red">devem</span> compor, no mínimo, 10% (dez por cento) do total da carga horária curricular estudantil dos cursos de graduação, as quais deverão fazer parte da matriz curricular dos cursos;
+
+## Pop Ciência 
 
 ![](../Resources/11754.png)
+[(DECRETO Nº 11.754, DE 25 DE OUTUBRO DE 2023)](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11754.htm)
 
-## Pop Ciência (DECRETO Nº 11.754)
+## Pop Ciência 
 
-Art. 4º  O Programa Pop Ciência será desenvolvido por meio de:
+Art. 4º O Programa Pop Ciência será desenvolvido por meio de:
 
 I - Eventos e Processos Permanentes de Popularização da Ciência - ação destinada a chamadas de mostras e feiras científicas, entre outras iniciativas que:
 
-a) estimulem a apropriação e o uso da ciência e tecnologia pelas diversas camadas da população; e
+a)  estimulem a apropriação e o uso da ciência e tecnologia pelas diversas camadas da população; e
 
-b) promovam a alfabetização e o letramento científicos e a percepção do papel da ciência como instrumento de desenvolvimento econômico e social;
+b)  promovam a alfabetização e o letramento científicos e a percepção do papel da ciência como instrumento de desenvolvimento econômico e social;
 
-## Pop Ciência (DECRETO Nº 11.754)
+## Pop Ciência 
 
 III - Concursos, Hackatons e Olimpíadas Científicas - ação destinada à realização de Olimpíadas Científicas e outras formas de concursos e desafios científicos e tecnológicos, em âmbito regional, nacional e internacional, em todas as áreas do conhecimento, que visem a contribuir para o desenvolvimento científico, tecnológico e de inovação no País;
 
 ## É divertido
+
+-   Envolve a comunidade;
+-   Aprendemos e ensinamos.
+
+# Objetivos
+
+## Entregáveis
+
+-   Conjunto de dados curados com perguntas classificadas;
+-   Projeto de hackathon;
+-   Revisão bibliográfica;
+-   Projeto de pesquisa em participação popular na ciência;
+-   Ferramenta (*citizen science*, gamificação)?
+-   Outros (proponham!)
+
+## Entregáveis
+
+Tentaremos conseguir recursos para implementação real de um projeto ainda em 2024.
+
+# Projetos
+
+Agora é com vocês!
