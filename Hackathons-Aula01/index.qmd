@@ -81,7 +81,7 @@ III - Concursos, Hackatons e Olimpíadas Científicas - ação destinada à real
 
 ## Entregáveis
 
-Tentaremos conseguir recursos para implementação real de um projeto ainda em 2024.
+Tentaremos conseguir recursos e apoio para implementação real de um projeto ainda em 2024.
 
 # Projetos
 
