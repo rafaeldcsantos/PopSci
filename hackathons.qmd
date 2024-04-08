@@ -41,13 +41,13 @@ Para estes temas já temos a coleção de dados definida, e/ou alguma experiênc
 # Cronograma para o primeiro período de 2024
 
 | Dia      | Conteúdo                                                                             |
-|----------|--------------------------------------------------------------------------------------|
+|--------------|----------------------------------------------------------|
 | 08/03/24 | [Tarefa Pré-Encontros]                                                               |
 | 15/03/24 | Tempo para desenvolvimento da primeira tarefa                                        |
 | 22/03/24 | [Encontro #1]: Apresentação formal da disciplina e objetivos, definição dos projetos |
 | 29/03/24 | [Feriado]{style="color:#ff00A0"}                                                     |
-| 05/04/24 | [Encontro #2]:                                                                       |
-| 12/04/24 |                                                                                      |
+| 05/04/24 | [Aula Suspensa]{style="color:#ff00A0"}                                                     |
+| 12/04/24 | [Encontro #2]: Apresentação das ideias dos projetos                                  |
 | 19/04/24 |                                                                                      |
 | 26/04/24 |                                                                                      |
 | 03/05/24 |                                                                                      |
@@ -79,13 +79,21 @@ Escolham uma (ou mais) destas referências para estudar e preparem um relatório
 ```
 # Encontro #1
 
-(ainda em preparo!)
-
 ```{=html}
 <iframe class="slide-deck" src="Hackathons-Aula01/"></iframe>
 ```
 [Clique aqui para abrir em nova janela](Hackathons-Aula01/){target="_blank"}
 
 # Encontro #2
+Alunos apresentarão suas propostas de trabalho!
+
+* Daniel Farkat Alves Fontes: * * 
+* Felipe Carvalho de Souza: * *
+* Gabriel Sansigolo: * *
+* Luciano Fagundes: * *
+* Luísa Santos: * *
+* Rafael Marinho de Andrade: * * 
+
+
 
 # Bibliografia
