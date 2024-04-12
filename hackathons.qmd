@@ -41,14 +41,14 @@ Para estes temas já temos a coleção de dados definida, e/ou alguma experiênc
 # Cronograma para o primeiro período de 2024
 
 | Dia      | Conteúdo                                                                             |
-|--------------|----------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | 08/03/24 | [Tarefa Pré-Encontros]                                                               |
 | 15/03/24 | Tempo para desenvolvimento da primeira tarefa                                        |
 | 22/03/24 | [Encontro #1]: Apresentação formal da disciplina e objetivos, definição dos projetos |
 | 29/03/24 | [Feriado]{style="color:#ff00A0"}                                                     |
-| 05/04/24 | [Aula Suspensa]{style="color:#ff00A0"}                                                     |
+| 05/04/24 | [Aula Suspensa]{style="color:#ff00A0"}                                               |
 | 12/04/24 | [Encontro #2]: Apresentação das ideias dos projetos                                  |
-| 19/04/24 |                                                                                      |
+| 19/04/24 | Encontro #3: Apresentação de um ambiente de Data Science (Gilberto Ribeiro)  |
 | 26/04/24 |                                                                                      |
 | 03/05/24 |                                                                                      |
 | 10/05/24 |                                                                                      |
@@ -70,7 +70,7 @@ Antes de termos nosso primeiro encontro presencial sugiro que considerem uma das
 3.  Veja a revisão sistemática em [@medina2020we] ([link](Resources/Medina2020.pdf)). Quais são as principais conclusões? Podemos expandir ou especializar esta revisão sistemática? Que outras *research questions* podem ser interessantes?
 4.  Leia o artigo [@nolte2020happens] ([link](Resources/Nolte2020.pdf)). Como os autores identificam projetos com continuidade?
 
-Escolham uma (ou mais) destas referências para estudar e preparem um relatório *simples* (sugestão: apresentação em 4-5 slides) para a nossa primeira reunião. O trabalho pode ser feito em duplas se assim quiserem.
+Escolham uma (ou mais) destas referências para estudar e preparem um relatório *simples* (sugestão: apresentação em 4-5 slides) para a nossa primeira reunião. O trabalho pode ser feito em duplas (ou trios) se assim quiserem.
 
 ```{=html}
 <!--
@@ -85,15 +85,12 @@ Escolham uma (ou mais) destas referências para estudar e preparem um relatório
 [Clique aqui para abrir em nova janela](Hackathons-Aula01/){target="_blank"}
 
 # Encontro #2
+
 Alunos apresentarão suas propostas de trabalho!
 
-* Daniel Farkat Alves Fontes: * * 
-* Felipe Carvalho de Souza: * *
-* Gabriel Sansigolo: * *
-* Luciano Fagundes: * *
-* Luísa Santos: * *
-* Rafael Marinho de Andrade: * * 
-
-
+-   Pedro Brito, Rafael Marinho de Andrade e Daniel Farkat Alves Fontes: **Hackathon com dados do Projeto Queimadas**
+-   Gabriel Sansigolo: **Hackathon do TerraCollect**
+-   Luciano Fagundes: **Projeto Prof. Próton**
+-   Luísa Santos: **Hackathon de Exploração Espacial do INPE (HEEINPE)** ou **Caçada ao Habitat Lunar de Exploração (CHLE)**
 
 # Bibliografia
