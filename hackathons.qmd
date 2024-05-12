@@ -25,7 +25,7 @@ As aulas serão exclusivamente online, mas síncronas: não será possível part
 
 Como projeto final da disciplina, alunos ou grupos deverão projetar um hackathon considerando todas as fases de sua execução. Projetos serão selecionados para implementação do hackathon em meses posteriores, com apoio da PGCAP e INPE.
 
-Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackathon proposto.
+Os projetos poderão ser desenvolvidos individualmente ou em duplas. É fortemente recomendado que o aluno (ou membro da dupla) tenha um bom conhecimento do problema, dos dados ou das APIs ou ferramentas a serem utilizadas no hackathon proposto. Vejam mais em [Alguns temas e projetos de interesse](#alguns-temas-e-projetos-de-interesse) e [entregáveis](#entregáveis).
 
 É possível consultar participantes externos que possam ajudar na definição dos hackathons, mas a responsabilidade da entrega dos projetos é dos alunos que cursarem a disciplina.
 
@@ -49,9 +49,9 @@ Para estes temas já temos a coleção de dados definida, e/ou alguma experiênc
 | 05/04/24 | [Aula Suspensa]{style="color:#ff00A0"}                                               |
 | 12/04/24 | [Encontro #2]: Apresentação das ideias dos projetos                                  |
 | 19/04/24 | Encontro #3: Apresentação de um ambiente de Data Science (Gilberto Ribeiro)  |
-| 26/04/24 |                                                                                      |
-| 03/05/24 |                                                                                      |
-| 10/05/24 |                                                                                      |
+| 26/04/24 | [Aula Suspensa -- falta de energia]{style="color:#ff00A0"} -- mas continuem trabalhando no projeto!                                                                                     |
+| 03/05/24 | Breve reunião de acompanhamento.                                                     |
+| 10/05/24 | Breve reunião de acompanhamento.                                                     |
 | 17/05/24 |                                                                                      |
 | 24/05/24 |                                                                                      |
 
@@ -88,9 +88,21 @@ Escolham uma (ou mais) destas referências para estudar e preparem um relatório
 
 Alunos apresentarão suas propostas de trabalho!
 
--   Pedro Brito, Rafael Marinho de Andrade e Daniel Farkat Alves Fontes: **Hackathon com dados do Projeto Queimadas**
+-   Pedro Brito, Rafael Marinho de Andrade e Daniel Farkat Alves Fontes: **Firespot Detect**
 -   Gabriel Sansigolo: **Hackathon do TerraCollect**
 -   Luciano Fagundes: **Projeto Prof. Próton**
 -   Luísa Santos: **Hackathon de Exploração Espacial do INPE (HEEINPE)** ou **Caçada ao Habitat Lunar de Exploração (CHLE)**
+
+# Entregáveis
+
+Como relatórios finais podemos considerar:
+
+* Plano de implementação de um hackathon (considerando prazo relativos, isto é, considerando que o hackathon ocorra em uma data, mostrar os passos que tem que ser tomados em data anteriores).
+* Guia detalhado para uso de uma ferramenta de apoio a Hackathons.
+* Demonstrativo de uso de ferramenta específica para apoio ao Hackathon.
+* Plano de acompanhamento pós-hackathon.
+
+Vejam que só precisamos dos planos -- a implementação do hackathon em si pode, se houver interesse, ser feita posteriormente.
+
 
 # Bibliografia
